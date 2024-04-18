@@ -3,11 +3,7 @@
 
 - 🔭  No momento estudando front end
 - 🌱 Escola Ebac Britanica de artes criativas &tecnologias
-- 💬 estou a caminho de um futuro Embrego na area 
-  
   <!-- GithubStats --><!-- GithubStats -->
-
-
 ###
 
 <div align="center">
@@ -35,9 +31,7 @@
   <a href="https://www.facebook.com/waldson.korylo?mibextid=PlNXYD" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white=white" target="_blank"></a> 
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/korylo/korylo/output/snake.svg" alt="Snake animation" />
+>
 
 
 
