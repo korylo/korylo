@@ -1,8 +1,8 @@
 ###  👋 Olá sou waldson korylo machado.
 
 
-- 🔭  No momento estudando front end
-- 🌱 Escola Ebac Britanica de artes criativas &tecnologias
+- 🔭 No momento estudando front end
+- 🌱 EBAC - Escola Britanica de artes criativas &tecnologias
   <!-- GithubStats --><!-- GithubStats -->
 ###
 
